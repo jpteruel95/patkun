@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "John Patrick Teruel",
+    "label": "Mobile Developer",
+    "picture": "",
+    "email": "jlteruel@rogomi.com",
+    "phone": "+639568722544"
+  },
+  "education": [{
+    "institution": "West Visayas State University in Pototan",
+    "course": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2012",
+    "endDate": "2016"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": "Visual Basic",
+        "number_of_years": 3
+      }, {
+        "name": "C#",
+        "number_of_years": 3
+      }, {
+        "name": "Objective C",
+        "number_of_years": 1
+      }, {
+        "name": "Swift",
+        "number_of_years": 1
+      }, {
+        "name": "PHP",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Web Technologies",
+      "technologies":[{
+        "name": "HTML5",
+        "number_of_years": 3
+      }, {
+        "name": "Javascript",
+        "number_of_years": 3
+      }, {
+        "name": "Jquery",
+        "number_of_years": 1
+      }, {
+        "name": "CSS",
+        "number_of_years": 3
+      }, {
+        "name": "Bootstrap",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Development Frameworks",
+      "technologies":[{
+        "name": ".NET",
+        "number_of_years": 3
+      }, {
+        "name": "Cocoa Touch",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Databases",
+      "technologies":[{
+        "name": "MySql",
+        "number_of_years": 2
+      }, {
+        "name": "SQLite",
+        "number_of_years": 3
+      }]
+    },{
+      "category": "Content Management System",
+      "technologies":[{
+        "name": "Wordpress",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Version Control",
+      "technologies":[{
+        "name": "Git",
+        "number_of_years": 1
+      }]
+    },{
+      "category": "Operating System",
+      "technologies":[{
+        "name": "Windows",
+        "number_of_years": 9
+      }]
+    },{
+      "category": "Integrated Development Environment",
+      "technologies":[{
+        "name": "Visual Studio",
+        "number_of_years": 5
+      }, {
+        "name": "XCode",
+        "number_of_years": 1
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Rogomi, Inc.",
+    "position": "Mobile Developer",
+    "startDate": "May 2016",
+    "endDate": "Present",
+    "summary": "Responsible for developing new and enhancing existing software using the following technologies: XCode, iOS and Android. Responsible for the entire app’s development lifecycle from concept stage up to delivery and post-launch support.",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Adzzer",
+        "description":"A mobile app that is available to anyone in Singapore to Shop & get all the products they wish for at bargain prices!",
+        "role":"Mobile Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Objective C"
+      },{
+        "name":"Gava iOS",
+        "description":"A set of mobile apps for iOS & Android that allows users to start gift or charity campaigns & contribute to current campaigns. At the same time, users may like & comment on these campaigns, and see upcoming life events or milestones for their friends so they can start a campaign for them.",
+        "role":"Mobile Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Objective C"
+      },{
+        "name":"WHS Monitor iOS",
+        "description":"WHS MONITOR is a modular, cloud-based Work Health and Safety compliance management system which enables organisations to simply and effectively comply with their Work Health and Safety obligations.",
+        "role":"Mobile Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Objective C"
+      },{
+        "name":"ShApp iOS",
+        "description":"An analytics app whose purpose is to collect user shopping behavior pattern information; users register and use the app to enter their purchase trip. With the information gathered, they can send certain surveys and usage questionnaires for reward points to be used for GCs, household appliances, and more.",
+        "role":"Mobile Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Swift 3"
+      },{
+        "name":"Sports5",
+        "description":"Sports5 is the online sports hub of TV5. It is the first official local sports website to livestream PBA, UFC, and other sporting events, as well as video on demand, all on HD format. Sports5.ph also has online shows catered to the sports aficionado.",
+        "role":"Mobile Developer",
+        "startDate":"2017",
+        "endDate":"Present",
+        "technologies":"Objective C"
+      }
+    ]
+  }],
+  "certification": []
+}
