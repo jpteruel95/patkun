@@ -109,23 +109,23 @@
         "name":"Adzzer",
         "description":"A mobile app that is available to anyone in Singapore to Shop & get all the products they wish for at bargain prices!",
         "role":"Mobile Developer",
-        "startDate":"2016",
-        "endDate":"Present",
+        "startDate":"October 2016",
+        "endDate":"April 2017",
         "months":"(6 months)",
         "technologies":"Objective C"
       },{
         "name":"Gava iOS",
         "description":"A set of mobile apps for iOS & Android that allows users to start gift or charity campaigns & contribute to current campaigns. At the same time, users may like & comment on these campaigns, and see upcoming life events or milestones for their friends so they can start a campaign for them.",
         "role":"Mobile Developer",
-        "startDate":"2016",
-        "endDate":"Present",
+        "startDate":"September 2016",
+        "endDate":"October 2017",
         "months":"(4 months)",
         "technologies":"Objective C"
       },{
         "name":"WHS Monitor iOS",
         "description":"WHS MONITOR is a modular, cloud-based Work Health and Safety compliance management system which enables organisations to simply and effectively comply with their Work Health and Safety obligations.",
         "role":"Mobile Developer",
-        "startDate":"2016",
+        "startDate":"August 2016",
         "endDate":"Present",
         "months":"(10 months)",
         "technologies":"Objective C"
@@ -133,16 +133,16 @@
         "name":"ShApp iOS",
         "description":"An analytics app whose purpose is to collect user shopping behavior pattern information; users register and use the app to enter their purchase trip. With the information gathered, they can send certain surveys and usage questionnaires for reward points to be used for GCs, household appliances, and more.",
         "role":"Mobile Developer",
-        "startDate":"2016",
-        "endDate":"Present",
+        "startDate":"November 2016",
+        "endDate":"March 2017",
         "months":"(4 months)",
         "technologies":"Swift 3"
       },{
         "name":"Sports5",
         "description":"Sports5 is the online sports hub of TV5. It is the first official local sports website to livestream PBA, UFC, and other sporting events, as well as video on demand, all on HD format. Sports5.ph also has online shows catered to the sports aficionado.",
         "role":"Mobile Developer",
-        "startDate":"2017",
-        "endDate":"Present",
+        "startDate":"February 2017",
+        "endDate":"March 2017",
         "months":"(1 month)",
         "technologies":"Objective C"
       }
