@@ -111,6 +111,7 @@
         "role":"Mobile Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(6 months)",
         "technologies":"Objective C"
       },{
         "name":"Gava iOS",
@@ -118,6 +119,7 @@
         "role":"Mobile Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(4 months)",
         "technologies":"Objective C"
       },{
         "name":"WHS Monitor iOS",
@@ -125,6 +127,7 @@
         "role":"Mobile Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(10 months)",
         "technologies":"Objective C"
       },{
         "name":"ShApp iOS",
@@ -132,6 +135,7 @@
         "role":"Mobile Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(4 months)",
         "technologies":"Swift 3"
       },{
         "name":"Sports5",
@@ -139,6 +143,7 @@
         "role":"Mobile Developer",
         "startDate":"2017",
         "endDate":"Present",
+        "months":"(1 month)",
         "technologies":"Objective C"
       }
     ]
